@@ -7,6 +7,8 @@
 
 ![BuildSucceed](https://github.com/darjidhruv26/springboot-aws-deploy/assets/90086813/d6ea7342-716d-4d53-89dc-08e90dc103ca)
 
+![ECS-Archi drawio](https://github.com/darjidhruv26/springboot-aws-deploy/assets/90086813/82abd76a-9c4c-4d35-ae6b-f19e1627ebd7)
+
 ![SVC](https://github.com/darjidhruv26/springboot-aws-deploy/assets/90086813/1fecf5a1-e0fa-43cc-92c9-72d13094a57a)
 
 ![Tasks-health](https://github.com/darjidhruv26/springboot-aws-deploy/assets/90086813/969b8c08-c6dc-4cf0-8847-ca10c2ce4e8a)
