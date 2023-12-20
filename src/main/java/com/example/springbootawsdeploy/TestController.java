@@ -10,5 +10,9 @@ public class TestController {
     @GetMapping("/data")
     public String getData(){
         return "First message from AWS ECS at DOCKER";
+    }   
+    @GetMapping("/message")
+    public String getMessage(){
+        return "First message from Dhruv Darji";
     }    
 }
